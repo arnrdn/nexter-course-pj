@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-- [Click here to see a live version on Netlify!](https://rdnrn.github.io/nexter-course-pj/)
+- [Click here to see a live version!](https://rdnrn.github.io/nexter-course-pj/)
 
 ## Getting Started
 
