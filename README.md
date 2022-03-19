@@ -5,10 +5,10 @@
 > It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). The main goal for this project is to upgrade my CSS Grid knowledge.
 
 <p align="center">
-  <img src="./img/demo-desktop1.gif" width="600">
+  <img src="./img/demo-desktop.gif" width="600">
 </p>
 <p align="center">
-  <img src="./img/demo-mobile1.gif" width="300">
+  <img src="./img/demo-mobile.gif" width="300">
 </p>
 
 ## Built With
@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-- [Click here to see a live version on Netlify!](https://brave-beaver-9e7959.netlify.app)
+- [Click here to see a live version on Netlify!](https://rdnrn.github.io/nexter-course-pj/)
 
 ## Getting Started
 
